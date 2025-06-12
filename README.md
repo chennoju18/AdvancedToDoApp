@@ -6,6 +6,19 @@ this app shows off both frontend and backend development skills.
 
 ---
 
+## 🚀 **Live Demo**
+
+👉 [https://myadvancedtodoapp.netlify.app](https://myadvancedtodoapp.netlify.app)
+
+---
+
+## 🗂️ GitHub Repositories
+
+👉 [Frontend Code (React)](https://github.com/chennoju18/AdvancedToDoApp-frontend)  
+👉 [Backend Code (Node.js + Express + MongoDB)](https://github.com/chennoju18/AdvancedToDoApp-backend)
+
+---
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React.js
